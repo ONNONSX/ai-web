@@ -1,12 +1,10 @@
-'use client';
-
 import Script from 'next/script';
 
 interface CoupangPartnersProps {
   productId: string;
 }
 
-export const CoupangPartners: React.FC<CoupangPartnersProps> = ({ productId }) => {
+const CoupangPartners: React.FC<CoupangPartnersProps> = ({ productId }) => {
   const partnerId = process.env.NEXT_PUBLIC_COUPANG_PARTNERS_ID;
 
   if (!partnerId || !productId) return null;
@@ -31,4 +29,6 @@ export const CoupangPartners: React.FC<CoupangPartnersProps> = ({ productId }) =
       </Script>
     </>
   );
-}; 
+};
+
+export default CoupangPartners; 

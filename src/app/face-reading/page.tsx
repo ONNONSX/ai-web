@@ -1,8 +1,9 @@
-
 "use client";
 
 import FaceReadingClient from "./face-reading-client";
 import { useTranslation } from "@/components/language-provider";
+import { GoogleAdsense } from '@/components/ads/google-adsense';
+import { CoupangPartners } from '@/components/ads/coupang-partners';
 
 export default function FaceReadingPage() {
   const { t } = useTranslation();
@@ -17,7 +18,19 @@ export default function FaceReadingPage() {
             {t('face_reading_page.subtitle')}
           </p>
         </div>
+
+        {/* 컨텐츠 상단 광고 */}
+        <div className="my-4">
+          <GoogleAdsense slot="관상_상단_광고_슬롯" />
+        </div>
+
         <FaceReadingClient />
+
+        {/* 결과 후 광고 */}
+        <div className="mt-12 space-y-6">
+          <GoogleAdsense slot="관상_하단_광고_슬롯" />
+          <CoupangPartners productId="관상_관련_상품_ID" />
+        </div>
       </div>
     </main>
   );

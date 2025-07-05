@@ -1,12 +1,10 @@
-'use client';
-
 import Script from 'next/script';
 
 interface GoogleAdsenseProps {
   slot: string;
 }
 
-export const GoogleAdsense: React.FC<GoogleAdsenseProps> = ({ slot }) => {
+const GoogleAdsense: React.FC<GoogleAdsenseProps> = ({ slot }) => {
   const clientId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
 
   if (!clientId || !slot) return null;
@@ -32,4 +30,6 @@ export const GoogleAdsense: React.FC<GoogleAdsenseProps> = ({ slot }) => {
       </Script>
     </>
   );
-}; 
+};
+
+export default GoogleAdsense; 

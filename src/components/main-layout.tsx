@@ -1,4 +1,3 @@
-
 "use client";
 
 import * as React from "react";
@@ -29,6 +28,8 @@ import { Icons } from "@/components/icons";
 import { cn } from "@/lib/utils";
 import { useTranslation } from "@/components/language-provider";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { GoogleAdsense } from './ads/google-adsense';
+import { CoupangPartners } from './ads/coupang-partners';
 
 export default function MainLayout({
   children,
@@ -108,7 +109,27 @@ export default function MainLayout({
           </Link>
           <SidebarTrigger />
         </header>
-        {children}
+        <div className="min-h-screen bg-background">
+          <div className="container mx-auto p-4">
+            {/* 상단 광고 배너 */}
+            <div className="mb-8">
+              <GoogleAdsense slot="상단_광고_슬롯" />
+            </div>
+
+            {/* 기존 컨텐츠 */}
+            {children}
+
+            {/* 하단 쿠팡 파트너스 광고 */}
+            <div className="mt-8">
+              <CoupangPartners productId="추천_상품_ID" />
+            </div>
+
+            {/* 사이드바 광고 (데스크톱에서만 표시) */}
+            <div className="fixed right-4 top-4 hidden lg:block" style={{ width: '300px' }}>
+              <GoogleAdsense slot="사이드바_광고_슬롯" />
+            </div>
+          </div>
+        </div>
       </SidebarInset>
     </SidebarProvider>
   );
