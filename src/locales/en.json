@@ -1,0 +1,178 @@
+
+{
+  "sidebar": {
+    "home": "Home",
+    "face_reading": "Face Reading",
+    "palm_reading": "Palm Reading",
+    "dream_interpretation": "Dream Interpretation",
+    "personality_test": "Teto-Egen Test",
+    "lotto_analysis": "Lotto Analysis",
+    "mystic_ai": "Mystic AI",
+    "select_language": "Select Language",
+    "personal_color_test": "Personal Color Test"
+  },
+  "home_page": {
+    "title": "Mystic AI Portal",
+    "subtitle": "Explore the realms of fortune and personality with our cutting-edge AI tools. Unveil the secrets hidden in your face, palms, and dreams."
+  },
+  "services": {
+    "face_reading": {
+      "title": "AI Face Reading",
+      "description": "Analyze facial features to reveal personality and fortune insights."
+    },
+    "palm_reading": {
+      "title": "AI Palm Reading",
+      "description": "Upload a palm photo for AI analysis of life, health, and wealth lines."
+    },
+    "dream_interpretation": {
+      "title": "AI Dream Interpretation",
+      "description": "Enter your dream's content to get a detailed symbolic interpretation."
+    },
+    "personality_test": {
+      "title": "Teto-Egen Test",
+      "description": "Discover your Teto-Egen type with 20 questions. What kind of Teto are you?"
+    },
+    "lotto_analysis": {
+      "title": "AI Lotto Analysis",
+      "description": "Generate lotto numbers and analyze historical data with AI."
+    },
+    "personal_color_test": {
+      "title": "Personal Color Test",
+      "description": "Find the perfect color palette that suits you best."
+    }
+  },
+  "try_now": "Try Now",
+  "face_reading_page": {
+    "title": "AI Face Reading (Physiognomy)",
+    "subtitle": "Discover the secrets your face holds. Upload a clear photo of your face, and our AI will analyze your features to reveal insights into your personality and fortune.",
+    "upload_card_title": "Upload Your Photo",
+    "upload_prompt": "Click or drag to upload a photo",
+    "upload_hint": "PNG, JPG, WEBP up to 4MB",
+    "button_analyze": "Analyze My Face",
+    "button_analyzing": "Analyzing...",
+    "results_personality_title": "Personality Insights",
+    "results_fortune_title": "Fortune Outlook",
+    "results_jobs_title": "Recommended Jobs",
+    "toast_file_too_large_title": "File too large",
+    "toast_file_too_large_description": "Please upload an image smaller than 4MB.",
+    "toast_no_image_title": "No image selected",
+    "toast_no_image_description": "Please upload a photo of your face.",
+    "toast_error_title": "Error",
+    "toast_error_description": "Failed to analyze face. The AI may have been unable to recognize a face in the image."
+  },
+  "palm_reading_page": {
+    "title": "AI Palm Reading (Chiromancy)",
+    "subtitle": "Your destiny is in your hands. Upload a clear photo of your palm, and let our AI interpret the major lines to reveal insights about your life, health, and wealth.",
+    "upload_card_title": "Upload Your Palm Photo",
+    "upload_prompt": "Click or drag to upload a photo",
+    "upload_hint": "PNG, JPG, WEBP up to 4MB",
+    "button_analyze": "Read My Palm",
+    "button_analyzing": "Analyzing...",
+    "results_health_title": "Health Insights",
+    "results_wealth_title": "Wealth Insights",
+    "toast_file_too_large_title": "File too large",
+    "toast_file_too_large_description": "Please upload an image smaller than 4MB.",
+    "toast_no_image_title": "No image selected",
+    "toast_no_image_description": "Please upload a photo of your palm.",
+    "toast_error_title": "Error",
+    "toast_error_description": "Failed to analyze palm. The AI may have been unable to recognize a palm in the image."
+  },
+  "dream_interpretation_page": {
+    "title": "AI Dream Interpretation",
+    "subtitle": "Unravel the mysteries of your subconscious. Describe your dream, and let our AI provide a detailed interpretation of its symbolic meaning.",
+    "input_card_title": "Describe Your Dream",
+    "input_placeholder": "e.g., I was flying over a city made of crystal...",
+    "button_interpret": "Interpret My Dream",
+    "button_interpreting": "Interpreting...",
+    "results_title": "Dream Interpretation",
+    "toast_too_short_title": "Input too short",
+    "toast_too_short_description": "Please describe your dream in a bit more detail.",
+    "toast_error_title": "Error",
+    "toast_error_description": "Failed to interpret dream. Please try again."
+  },
+  "lotto_analysis_page": {
+    "title": "AI Lotto Analysis",
+    "subtitle": "Leverage AI to generate lucky numbers and check various statistical data.",
+    "generator_card_title": "AI Lucky Number Generator",
+    "generator_prompt": "Click the button to generate your numbers!",
+    "button_generate": "Generate My Numbers",
+    "analysis_card_title": "Comprehensive Statistical Analysis",
+    "analysis_card_subtitle": "Statistics based on data from episode 1 to present (sample data).",
+    "most_frequent_title": "Most Frequent Numbers",
+    "least_frequent_title": "Least Frequent Numbers",
+    "color_stats_title": "Color Statistics",
+    "color_yellow": "Yellow (1-10)",
+    "color_blue": "Blue (11-20)",
+    "color_red": "Red (21-30)",
+    "color_gray": "Gray (31-40)",
+    "color_green": "Green (41-45)",
+    "game_label": "Game {{number}}"
+  },
+  "personality_test_page": {
+    "title": "Teto-Egen Test",
+    "subtitle": "What kind of Teto are you? Find out your Teto type based on the Egen theory.",
+    "question_title": "Question {{current}} / {{total}}",
+    "button_analyzing": "Analyzing your result...",
+    "button_reset": "Take the Test Again",
+    "result_type": "Your Type",
+    "questions": [
+      { "id": 1, "questionText": "It's the weekend! What are your plans?", "answers": [ { "text": "Rest at home. Home is the best!", "scores": { "teto": 0, "egen": -2 } }, { "text": "Go out and meet friends. It's party time!", "scores": { "teto": 0, "egen": 2 } } ] },
+      { "id": 2, "questionText": "When you meet someone new, what's your first reaction?", "answers": [ { "text": "Start a logical conversation about their background.", "scores": { "teto": 2, "egen": 1 } }, { "text": "Greet them with a warm smile and find common ground.", "scores": { "teto": -1, "egen": 2 } }, { "text": "Quietly observe and look for a chance to start a conversation.", "scores": { "teto": 0, "egen": -1 } } ] },
+      { "id": 3, "questionText": "When faced with a difficult problem, you...", "answers": [ { "text": "Create a logical step-by-step plan and execute it.", "scores": { "teto": 2, "egen": 0 } }, { "text": "Follow your intuition or ask others for advice.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 4, "questionText": "What's your way of relieving stress?", "answers": [ { "text": "Release energy through exercise or active hobbies.", "scores": { "teto": 0, "egen": 2 } }, { "text": "Think quietly alone or take a rest.", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 5, "questionText": "When a friend shares their worries, you usually...", "answers": [ { "text": "Suggest a solution and analyze the problem logically.", "scores": { "teto": 2, "egen": 0 } }, { "text": "Empathize with their feelings and comfort them.", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 6, "questionText": "When learning a new technology or tool, your approach is to...", "answers": [ { "text": "Read the manual carefully to understand the principles first.", "scores": { "teto": 2, "egen": -1 } }, { "text": "Just start using it and get a feel for it through trial and error.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 7, "questionText": "What role do you prefer in a group activity?", "answers": [ { "text": "A leader who guides people and makes decisions.", "scores": { "teto": 1, "egen": 2 } }, { "text": "A supporter who suggests ideas or quietly helps out.", "scores": { "teto": 0, "egen": -1 } }, { "text": "A connector who sets the mood and brings team members together.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 8, "questionText": "When making an important decision, what do you rely on most?", "answers": [ { "text": "Objective data and facts.", "scores": { "teto": 2, "egen": 0 } }, { "text": "Your personal intuition and feelings.", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 9, "questionText": "When spending time with people, you...", "answers": [ { "text": "Actively talk and gain energy.", "scores": { "teto": 0, "egen": 2 } }, { "text": "Enjoy listening and tend to lose energy.", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 10, "questionText": "What does 'success' mean to you?", "answers": [ { "text": "Achieving objective goals and performance.", "scores": { "teto": 2, "egen": 0 } }, { "text": "Feeling satisfied and happy with yourself.", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 11, "questionText": "How do you respond in a conflict situation?", "answers": [ { "text": "Analyze the cause of the problem and find a rational solution.", "scores": { "teto": 2, "egen": -1 } }, { "text": "Try to understand the other person's feelings and seek harmony.", "scores": { "teto": -2, "egen": 1 } } ] },
+      { "id": 12, "questionText": "When planning a trip, you...", "answers": [ { "text": "Thoroughly plan a detailed schedule and route.", "scores": { "teto": 1, "egen": -1 } }, { "text": "Just set a general outline and enjoy it spontaneously.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 13, "questionText": "When coming up with new ideas, you...", "answers": [ { "text": "Develop ideas through systematic research and analysis.", "scores": { "teto": 2, "egen": -1 } }, { "text": "Generate various ideas through free imagination and intuition.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 14, "questionText": "What is your favorite activity?", "answers": [ { "text": "Learning new things or engaging in intellectual exploration.", "scores": { "teto": 1, "egen": -1 } }, { "text": "Chatting with friends or having gatherings.", "scores": { "teto": -1, "egen": 2 } }, { "text": "Artistic activities (music, art, etc.) or creative work.", "scores": { "teto": -1, "egen": -1 } } ] },
+      { "id": 15, "questionText": "Before starting a task, you...", "answers": [ { "text": "Plan meticulously and prepare thoroughly.", "scores": { "teto": 2, "egen": -1 } }, { "text": "Just start and solve problems as they come.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 16, "questionText": "How do you usually feel when you receive a compliment?", "answers": [ { "text": "I feel that my efforts and achievements have been recognized.", "scores": { "teto": 1, "egen": 0 } }, { "text": "I feel warm emotions and satisfaction.", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 17, "questionText": "What do you want to do most on vacation?", "answers": [ { "text": "Participate in popular spots or festivals crowded with people.", "scores": { "teto": 0, "egen": 2 } }, { "text": "Spend my own time in a quiet and secluded place.", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 18, "questionText": "When planning for the future, you usually...", "answers": [ { "text": "Set specific goals and achievable steps.", "scores": { "teto": 2, "egen": 0 } }, { "text": "Keep possibilities open and think flexibly.", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 19, "questionText": "What is 'happiness' to you?", "answers": [ { "text": "The sense of accomplishment and satisfaction after achieving a goal.", "scores": { "teto": 1, "egen": 0 } }, { "text": "Warm moments spent with loved ones.", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 20, "questionText": "When placed in a new environment, how do you act?", "answers": [ { "text": "Adapt quickly and actively interact with people.", "scores": { "teto": 0, "egen": 2 } }, { "text": "Quietly assess the situation and wait until I get used to it.", "scores": { "teto": 0, "egen": -2 } } ] }
+    ],
+    "results": [
+      { "type": "Logical Activist (TETO-EGE)", "description": "You enjoy active problem-solving based on rational and logical thinking. You are not afraid of new challenges and achieve goals with an analytical approach. You lead people with natural leadership and are adept at making rational decisions based on data. You may be misunderstood as cold or poor at expressing emotions, but this is because you value efficiency and accuracy.", "keywords": ["Rational", "Logical", "Activist", "Leadership", "Problem-solver", "Challenging", "Analytical"] },
+      { "type": "Logical Thinker (TETO-SAC)", "description": "You understand the world through deep contemplation and logical analysis. You gain energy from spending time alone and are skilled at patiently delving into complex problems to grasp their essence. While you may seem quiet on the outside, you possess vast knowledge and systematic thinking skills internally. You are more interested in exploring ideas or principles than in emotional exchanges with others.", "keywords": ["Rational", "Logical", "Thinker", "Analyst", "Intellectual", "Inquisitive", "Quiet"] },
+      { "type": "Emotional Activist (GEM-EGE)", "description": "You gain energy by actively communicating with people through your warm emotions and excellent empathy. You quickly grasp others' feelings, value relationships, and delight those around you with your natural friendliness. You tend to make intuitive and spontaneous decisions, pursue new experiences, and are not afraid of change. Although you may sometimes be swayed by emotions or make irrational decisions, your bright energy and inclusiveness positively influence many people.", "keywords": ["Emotional", "Activist", "Empathy", "Friendly", "Optimistic", "Intuitive", "Relationship-oriented"] },
+      { "type": "Emotional Thinker (GEM-SAC)", "description": "You are a thinker with rich emotions and a deep inner world. You find inspiration in solitude and discover beauty and meaning even in small things. You are sensitive to others' emotions and often have an artistic sense or creative side. While you may seem quiet and shy on the outside, you have deep insight and delicate sensitivity within. You may sometimes struggle with practical problem-solving, but your warmth and originality have a special impact on those around you.", "keywords": ["Emotional", "Thinker", "Artistic", "Creative", "Delicate", "Introverted", "Original"] }
+    ]
+  },
+  "personal_color_test_page": {
+    "title": "AI Personal Color Test",
+    "subtitle": "Find the perfect colors for you. AI will analyze your face to diagnose your personal color.",
+    "upload_card_title": "Upload or Take a Photo",
+    "tab_upload": "Upload File",
+    "tab_camera": "Use Camera",
+    "upload_prompt": "Click or drag to upload a photo",
+    "upload_hint": "PNG, JPG, WEBP up to 4MB",
+    "camera_guidelines_title": "Tips for Accurate Analysis",
+    "camera_guideline_1": "Use bright, natural lighting.",
+    "camera_guideline_2": "Ensure your face is clearly visible without makeup.",
+    "camera_guideline_3": "Look straight ahead with a neutral expression.",
+    "button_take_photo": "Take Photo",
+    "button_retake_photo": "Retake Photo",
+    "button_analyze": "Analyze My Personal Color",
+    "button_analyzing": "Analyzing...",
+    "results_title": "Your Personal Color is...",
+    "results_summary": "Diagnosis Summary",
+    "results_best_colors": "Best Color Palette",
+    "results_worst_colors": "Colors to Avoid",
+    "results_makeup": "Makeup Recommendations",
+    "results_fashion": "Fashion Styling Tips",
+    "toast_no_image_title": "No image selected",
+    "toast_no_image_description": "Please upload or take a photo of your face.",
+    "toast_camera_error_title": "Camera Error",
+    "toast_camera_error_description": "Could not access the camera. Please check permissions.",
+    "toast_analysis_error_title": "Analysis Error",
+    "toast_analysis_error_description": "Failed to analyze your photo. Please try another one.",
+    "alert_camera_required_title": "Camera Access Required",
+    "alert_camera_required_description": "Please allow camera access in your browser to use this feature."
+  }
+}

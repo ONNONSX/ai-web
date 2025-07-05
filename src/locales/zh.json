@@ -1,0 +1,178 @@
+
+{
+  "sidebar": {
+    "home": "首页",
+    "face_reading": "面相解读",
+    "palm_reading": "手相解读",
+    "dream_interpretation": "解梦",
+    "personality_test": "泰托-埃根测试",
+    "lotto_analysis": "彩票分析",
+    "mystic_ai": "神秘AI",
+    "select_language": "选择语言",
+    "personal_color_test": "个人色彩测试"
+  },
+  "home_page": {
+    "title": "神秘AI门户",
+    "subtitle": "利用我们尖端的AI工具探索命运和个性的领域。揭开隐藏在你的脸、手掌和梦中的秘密。"
+  },
+  "services": {
+    "face_reading": {
+      "title": "AI面相解读",
+      "description": "分析面部特征，揭示个性和命运的洞察力。"
+    },
+    "palm_reading": {
+      "title": "AI手相解读",
+      "description": "上传手掌照片，通过AI分析生命线、健康线和财富线。"
+    },
+    "dream_interpretation": {
+      "title": "AI解梦",
+      "description": "输入你的梦境内容，获得详细的象征意义解释。"
+    },
+    "personality_test": {
+      "title": "泰托-埃根测试",
+      "description": "通过20个问题发现您的Teto-Egen类型。 您是哪种Teto？"
+    },
+    "lotto_analysis": {
+      "title": "AI彩票分析",
+      "description": "使用AI生成彩票号码并分析历史数据。"
+    },
+    "personal_color_test": {
+      "title": "个人色彩测试",
+      "description": "找到最适合你的完美调色板。"
+    }
+  },
+  "try_now": "立即尝试",
+  "face_reading_page": {
+    "title": "AI面相解读",
+    "subtitle": "发现你脸上隐藏的秘密。上传一张清晰的脸部照片，我们的人工智能将分析你的特征，揭示你的个性和命运。",
+    "upload_card_title": "上传你的照片",
+    "upload_prompt": "点击或拖动上传照片",
+    "upload_hint": "PNG, JPG, WEBP, 最大4MB",
+    "button_analyze": "分析我的脸",
+    "button_analyzing": "分析中...",
+    "results_personality_title": "个性洞察",
+    "results_fortune_title": "命运展望",
+    "results_jobs_title": "推荐工作",
+    "toast_file_too_large_title": "文件太大",
+    "toast_file_too_large_description": "请上传小于4MB的图片。",
+    "toast_no_image_title": "未选择图片",
+    "toast_no_image_description": "请上传一张你的脸部照片。",
+    "toast_error_title": "错误",
+    "toast_error_description": "分析面部失败。AI可能无法识别图像中的人脸。"
+  },
+  "palm_reading_page": {
+    "title": "AI手相解读",
+    "subtitle": "你的命运掌握在自己手中。上传一张清晰的手掌照片，让我们的人工智能解读主要线条，揭示你的人生、健康和财富。",
+    "upload_card_title": "上传你的手掌照片",
+    "upload_prompt": "点击或拖动上传照片",
+    "upload_hint": "PNG, JPG, WEBP, 最大4MB",
+    "button_analyze": "解读我的手相",
+    "button_analyzing": "分析中...",
+    "results_health_title": "健康洞察",
+    "results_wealth_title": "财富洞察",
+    "toast_file_too_large_title": "文件太大",
+    "toast_file_too_large_description": "请上传小于4MB的图片。",
+    "toast_no_image_title": "未选择图片",
+    "toast_no_image_description": "请上传一张你的手掌照片。",
+    "toast_error_title": "错误",
+    "toast_error_description": "分析手掌失败。AI可能无法识别图像中的手掌。"
+  },
+  "dream_interpretation_page": {
+    "title": "AI解梦",
+    "subtitle": "揭开你潜意识的奥秘。描述你的梦，让我们的人工智能为你提供其象征意义的详细解释。",
+    "input_card_title": "描述你的梦",
+    "input_placeholder": "例如，我飞越一座水晶之城...",
+    "button_interpret": "解读我的梦",
+    "button_interpreting": "解读中...",
+    "results_title": "梦的解读",
+    "toast_too_short_title": "输入太短",
+    "toast_too_short_description": "请更详细地描述你的梦。",
+    "toast_error_title": "错误",
+    "toast_error_description": "解梦失败。请重试。"
+  },
+  "lotto_analysis_page": {
+    "title": "AI彩票分析",
+    "subtitle": "利用AI生成幸运号码并查看各种统计数据。",
+    "generator_card_title": "AI幸运号码生成器",
+    "generator_prompt": "点击按钮生成您的号码！",
+    "button_generate": "生成我的号码",
+    "analysis_card_title": "综合统计分析",
+    "analysis_card_subtitle": "基于从第1期到现在的统计数据（示例数据）。",
+    "most_frequent_title": "出现次数最多的号码",
+    "least_frequent_title": "出现次数最少的号码",
+    "color_stats_title": "颜色统计",
+    "color_yellow": "黄色 (1-10)",
+    "color_blue": "蓝色 (11-20)",
+    "color_red": "红色 (21-30)",
+    "color_gray": "灰色 (31-40)",
+    "color_green": "绿色 (41-45)",
+    "game_label": "游戏 {{number}}"
+  },
+  "personality_test_page": {
+    "title": "泰托-埃根测试",
+    "subtitle": "我是哪种泰托？根据埃根理论找出你的泰托类型。",
+    "question_title": "问题 {{current}} / {{total}}",
+    "button_analyzing": "正在分析您的结果...",
+    "button_reset": "再次测试",
+    "result_type": "你的类型",
+    "questions": [
+      { "id": 1, "questionText": "周末到了！你有什么计划？", "answers": [ { "text": "在家休息。家是最好的！", "scores": { "teto": 0, "egen": -2 } }, { "text": "出去和朋友见面。派对时间到了！", "scores": { "teto": 0, "egen": 2 } } ] },
+      { "id": 2, "questionText": "当你遇到一个新朋友时，你的第一反应是什么？", "answers": [ { "text": "开始一场关于他们背景的逻辑对话。", "scores": { "teto": 2, "egen": 1 } }, { "text": "用温暖的微笑迎接他们，寻找共同点。", "scores": { "teto": -1, "egen": 2 } }, { "text": "静静观察，寻找开始对话的机会。", "scores": { "teto": 0, "egen": -1 } } ] },
+      { "id": 3, "questionText": "当你面临一个难题时，你会...", "answers": [ { "text": "制定一个合乎逻辑的逐步计划并执行它。", "scores": { "teto": 2, "egen": 0 } }, { "text": "跟随你的直觉或向他人寻求建议。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 4, "questionText": "你缓解压力的方式是什么？", "answers": [ { "text": "通过锻炼或积极的爱好释放能量。", "scores": { "teto": 0, "egen": 2 } }, { "text": "独自安静地思考或休息。", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 5, "questionText": "当朋友向你倾诉烦恼时，你通常会...", "answers": [ { "text": "提出解决方案并逻辑地分析问题。", "scores": { "teto": 2, "egen": 0 } }, { "text": "感同身受并安慰他们。", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 6, "questionText": "在学习新技术或工具时，你的方法是...", "answers": [ { "text": "仔细阅读手册，先了解原理。", "scores": { "teto": 2, "egen": -1 } }, { "text": "直接开始使用，通过反复试验来找到感觉。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 7, "questionText": "在团队活动中，你更喜欢扮演什么角色？", "answers": [ { "text": "引导人们并做出决定的领导者。", "scores": { "teto": 1, "egen": 2 } }, { "text": "提出想法或默默支持的支持者。", "scores": { "teto": 0, "egen": -1 } }, { "text": "营造气氛并将团队成员联系在一起的连接者。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 8, "questionText": "在做重要决定时，你最依赖什么？", "answers": [ { "text": "客观的数据和事实。", "scores": { "teto": 2, "egen": 0 } }, { "text": "你的个人直觉和感受。", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 9, "questionText": "和别人在一起时，你...", "answers": [ { "text": "积极交谈并获得能量。", "scores": { "teto": 0, "egen": 2 } }, { "text": "喜欢倾听，并且会消耗能量。", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 10, "questionText": "对你来说，‘成功’意味着什么？", "answers": [ { "text": "实现客观目标和绩效。", "scores": { "teto": 2, "egen": 0 } }, { "text": "对自己感到满意和快乐。", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 11, "questionText": "在冲突情况下，你如何应对？", "answers": [ { "text": "分析问题的原因并找到理性的解决方案。", "scores": { "teto": 2, "egen": -1 } }, { "text": "努力理解对方的感受并寻求和谐。", "scores": { "teto": -2, "egen": 1 } } ] },
+      { "id": 12, "questionText": "计划旅行时，你...", "answers": [ { "text": "彻底计划详细的时间表和路线。", "scores": { "teto": 1, "egen": -1 } }, { "text": "只设定一个大概的框架，然后随性享受。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 13, "questionText": "当你有新想法时，你...", "answers": [ { "text": "通过系统的研究和分析来发展想法。", "scores": { "teto": 2, "egen": -1 } }, { "text": "通过自由的想象和直觉产生各种想法。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 14, "questionText": "你最喜欢的活动是什么？", "answers": [ { "text": "学习新事物或进行智力探索。", "scores": { "teto": 1, "egen": -1 } }, { "text": "和朋友聊天或聚会。", "scores": { "teto": -1, "egen": 2 } }, { "text": "艺术活动（音乐、美术等）或创作。", "scores": { "teto": -1, "egen": -1 } } ] },
+      { "id": 15, "questionText": "在开始一项任务之前，你...", "answers": [ { "text": "精心计划并做好充分准备。", "scores": { "teto": 2, "egen": -1 } }, { "text": "先开始，边做边解决问题。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 16, "questionText": "当你受到赞美时，你通常有什么感觉？", "answers": [ { "text": "我觉得我的努力和成就得到了认可。", "scores": { "teto": 1, "egen": 0 } }, { "text": "我感到温暖和满足。", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 17, "questionText": "度假时你最想做什么？", "answers": [ { "text": "参加人山人海的热门景点或节日。", "scores": { "teto": 0, "egen": 2 } }, { "text": "在安静偏僻的地方度过自己的时间。", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 18, "questionText": "在规划未来时，你通常...", "answers": [ { "text": "设定具体的目标和可行的步骤。", "scores": { "teto": 2, "egen": 0 } }, { "text": "保持开放的可能性并灵活思考。", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 19, "questionText": "对你来说，什么是‘幸福’？", "answers": [ { "text": "实现目标后的成就感和满足感。", "scores": { "teto": 1, "egen": 0 } }, { "text": "与亲人共度的温暖时刻。", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 20, "questionText": "当处于新环境时，你会如何行动？", "answers": [ { "text": "迅速适应并积极与人交往。", "scores": { "teto": 0, "egen": 2 } }, { "text": "静静地评估情况，等到习惯为止。", "scores": { "teto": 0, "egen": -2 } } ] }
+    ],
+    "results": [
+      { "type": "逻辑型活动家 (TETO-EGE)", "description": "你喜欢基于理性和逻辑思维积极解决问题。你不怕新挑战，并通过分析方法实现目标。你以天生的领导才能引导他人，并擅长根据数据做出理性的决策。你可能会被误解为冷漠或不善于表达情感，但这是因为你重视效率和准确性。", "keywords": ["理性", "逻辑", "活动家", "领导力", "问题解决者", "挑战性", "分析性"] },
+      { "type": "逻辑型思想家 (TETO-SAC)", "description": "你通过深入的思考和逻辑分析来理解世界。你通过独处获得能量，并擅长耐心地钻研复杂问题以抓住其本质。虽然你外表可能看起来安静，但内心拥有广博的知识和系统的思维能力。相比与他人的情感交流，你对探索思想或原则更感兴趣。", "keywords": ["理性", "逻辑", "思想家", "分析家", "知识分子", "探究性", "安静"] },
+      { "type": "情感型活动家 (GEM-EGE)", "description": "你通过温暖的情感和出色的同理心与人积极沟通来获得能量。你迅速捕捉他人的感受，重视人际关系，并以天生的友善给周围的人带来快乐。你倾向于做出直观和自发的决定，追求新的体验，不惧怕改变。尽管有时你可能会被情绪左右或做出不理性的决定，但你灿烂的精力和包容性对许多人产生了积极的影响。", "keywords": ["情感", "活动家", "同理心", "友好", "乐观", "直觉", "关系导向"] },
+      { "type": "情感型思想家 (GEM-SAC)", "description": "你是一个情感丰富、内心世界深邃的思想家。你从独处中寻找灵感，在小事中发现美和意义。你对他人的情绪很敏感，常常具有艺术感或创造性的一面。虽然你外表可能看起来安静害羞，但内心深处有深刻的洞察力和细腻的敏感性。有时你可能在解决实际问题时遇到困难，但你的温暖和独创性对周围的人有特殊的影响。", "keywords": ["情感", "思想家", "艺术性", "创造性", "细腻", "内向", "原创"] }
+    ]
+  },
+  "personal_color_test_page": {
+    "title": "AI个人色彩测试",
+    "subtitle": "找到最适合您的颜色。AI将分析您的脸部以诊断您的个人色彩。",
+    "upload_card_title": "上传或拍照",
+    "tab_upload": "上传文件",
+    "tab_camera": "使用相机",
+    "upload_prompt": "点击或拖动上传照片",
+    "upload_hint": "PNG, JPG, WEBP, 最大4MB",
+    "camera_guidelines_title": "准确分析小贴士",
+    "camera_guideline_1": "请在明亮的自然光下拍摄。",
+    "camera_guideline_2": "确保素颜，脸部清晰可见。",
+    "camera_guideline_3": "面无表情，直视前方。",
+    "button_take_photo": "拍照",
+    "button_retake_photo": "重拍",
+    "button_analyze": "分析我的个人色彩",
+    "button_analyzing": "分析中...",
+    "results_title": "您的个人色彩是...",
+    "results_summary": "诊断摘要",
+    "results_best_colors": "最佳色板",
+    "results_worst_colors": "应避免的颜色",
+    "results_makeup": "妆容建议",
+    "results_fashion": "时尚造型建议",
+    "toast_no_image_title": "未选择图片",
+    "toast_no_image_description": "请上传或拍摄您的脸部照片。",
+    "toast_camera_error_title": "相机错误",
+    "toast_camera_error_description": "无法访问相机。请检查权限。",
+    "toast_analysis_error_title": "分析错误",
+    "toast_analysis_error_description": "分析您的照片失败。请尝试另一张。",
+    "alert_camera_required_title": "需要相机访问权限",
+    "alert_camera_required_description": "要使用此功能，请在浏览器中允许相机访问。"
+  }
+}

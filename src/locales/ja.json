@@ -1,0 +1,178 @@
+
+{
+  "sidebar": {
+    "home": "ホーム",
+    "face_reading": "顔占い",
+    "palm_reading": "手相占い",
+    "dream_interpretation": "夢占い",
+    "personality_test": "テト-エゲン テスト",
+    "lotto_analysis": "宝くじ分析",
+    "mystic_ai": "ミスティックAI",
+    "select_language": "言語を選択",
+    "personal_color_test": "パーソナルカラー診断"
+  },
+  "home_page": {
+    "title": "ミスティックAIポータル",
+    "subtitle": "最先端のAIツールで運勢と性格の領域を探求しましょう。あなたの顔、手のひら、夢に隠された秘密を解き明かしてください。"
+  },
+  "services": {
+    "face_reading": {
+      "title": "AI顔占い",
+      "description": "顔の特徴を分析し、性格や運勢についての洞察を明らかにします。"
+    },
+    "palm_reading": {
+      "title": "AI手相占い",
+      "description": "手のひらの写真をアップロードして、生命線、健康線、財運線などをAIが分析します。"
+    },
+    "dream_interpretation": {
+      "title": "AI夢占い",
+      "description": "夢の内容を入力すると、その象徴的な意味を詳細に解釈します。"
+    },
+    "personality_test": {
+      "title": "テト-エゲン テスト",
+      "description": "20の質問であなたのテト-エゲンタイプを発見しましょう。あなたはどんなテトですか？"
+    },
+    "lotto_analysis": {
+      "title": "AI宝くじ分析",
+      "description": "AIで宝くじの番号を生成し、過去のデータを分析します。"
+    },
+    "personal_color_test": {
+      "title": "パーソナルカラー診断",
+      "description": "あなたに最も似合う完璧なカラーパレットを見つけてください。"
+    }
+  },
+  "try_now": "試してみる",
+  "face_reading_page": {
+    "title": "AI顔占い（観相学）",
+    "subtitle": "あなたの顔に隠された秘密を発見しましょう。鮮明な顔写真をアップロードすれば、AIがあなたの特徴を分析し、性格と運勢についての洞察を明らかにします。",
+    "upload_card_title": "写真をアップロード",
+    "upload_prompt": "クリックまたはドラッグして写真をアップロード",
+    "upload_hint": "PNG, JPG, WEBP 最大4MB",
+    "button_analyze": "私の顔を分析",
+    "button_analyzing": "分析中...",
+    "results_personality_title": "性格の洞察",
+    "results_fortune_title": "運勢の見通し",
+    "results_jobs_title": "おすすめの職業",
+    "toast_file_too_large_title": "ファイルが大きすぎます",
+    "toast_file_too_large_description": "4MB未満の画像をアップロードしてください。",
+    "toast_no_image_title": "画像が選択されていません",
+    "toast_no_image_description": "あなたの顔写真をアップロードしてください。",
+    "toast_error_title": "エラー",
+    "toast_error_description": "顔の分析に失敗しました。AIが画像を認識できなかった可能性があります。"
+  },
+  "palm_reading_page": {
+    "title": "AI手相占い",
+    "subtitle": "あなたの運命はあなたの手の中にあります。鮮明な手のひらの写真をアップロードすれば、AIが主要な線を解釈し、あなたの人生、健康、富についての洞察を明らかにします。",
+    "upload_card_title": "手のひらの写真をアップロード",
+    "upload_prompt": "クリックまたはドラッグして写真をアップロード",
+    "upload_hint": "PNG, JPG, WEBP 最大4MB",
+    "button_analyze": "私の手相を読む",
+    "button_analyzing": "分析中...",
+    "results_health_title": "健康の洞察",
+    "results_wealth_title": "富の洞察",
+    "toast_file_too_large_title": "ファイルが大きすぎます",
+    "toast_file_too_large_description": "4MB未満の画像をアップロードしてください。",
+    "toast_no_image_title": "画像が選択されていません",
+    "toast_no_image_description": "手のひらの写真をアップロードしてください。",
+    "toast_error_title": "エラー",
+    "toast_error_description": "手相の分析に失敗しました。AIが画像を認識できなかった可能性があります。"
+  },
+  "dream_interpretation_page": {
+    "title": "AI夢占い",
+    "subtitle": "あなたの潜在意識の謎を解き明かしましょう。夢を説明すれば、AIがその象徴的な意味について詳細な解釈を提供します。",
+    "input_card_title": "あなたの夢を説明してください",
+    "input_placeholder": "例：水晶でできた都市の上を飛んでいました...",
+    "button_interpret": "私の夢を解釈する",
+    "button_interpreting": "解釈中...",
+    "results_title": "夢の解釈",
+    "toast_too_short_title": "入力が短すぎます",
+    "toast_too_short_description": "もう少し詳しく夢を説明してください。",
+    "toast_error_title": "エラー",
+    "toast_error_description": "夢の解釈に失敗しました。もう一度お試しください。"
+  },
+  "lotto_analysis_page": {
+    "title": "AI宝くじ分析",
+    "subtitle": "AIを活用して幸運の番号を生成し、様々な統計データを確認してください。",
+    "generator_card_title": "AI幸運番号ジェネレーター",
+    "generator_prompt": "ボタンをクリックして番号を生成してください！",
+    "button_generate": "私の番号を生成",
+    "analysis_card_title": "総合統計分析",
+    "analysis_card_subtitle": "第1回から現在までのデータに基づいた統計です（サンプルデータ）。",
+    "most_frequent_title": "最も多く出た番号",
+    "least_frequent_title": "最も少なく出た番号",
+    "color_stats_title": "色別統計",
+    "color_yellow": "黄色 (1-10)",
+    "color_blue": "青色 (11-20)",
+    "color_red": "赤色 (21-30)",
+    "color_gray": "灰色 (31-40)",
+    "color_green": "緑色 (41-45)",
+    "game_label": "ゲーム {{number}}"
+  },
+  "personality_test_page": {
+    "title": "テト-エゲン テスト",
+    "subtitle": "私はどんなテト？エゲン理論に基づいてあなたのテトタイプを見つけよう。",
+    "question_title": "質問 {{current}} / {{total}}",
+    "button_analyzing": "結果を分析中...",
+    "button_reset": "もう一度テストを受ける",
+    "result_type": "あなたのタイプ",
+    "questions": [
+      { "id": 1, "questionText": "週末です！予定は？", "answers": [ { "text": "家でリラックス。家が一番！", "scores": { "teto": 0, "egen": -2 } }, { "text": "友達に会いに外出。パーティーの時間だ！", "scores": { "teto": 0, "egen": 2 } } ] },
+      { "id": 2, "questionText": "新しい人に会った時の最初の反応は？", "answers": [ { "text": "相手の経歴について論理的な会話を始める。", "scores": { "teto": 2, "egen": 1 } }, { "text": "温かい笑顔で挨拶し、共通点を探す。", "scores": { "teto": -1, "egen": 2 } }, { "text": "静かに観察し、会話を始める機会をうかがう。", "scores": { "teto": 0, "egen": -1 } } ] },
+      { "id": 3, "questionText": "難しい問題に直面した時、あなたは？", "answers": [ { "text": "論理的な段階的計画を立てて実行する。", "scores": { "teto": 2, "egen": 0 } }, { "text": "直感に従うか、周りの人に助言を求める。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 4, "questionText": "あなたのストレス解消法は？", "answers": [ { "text": "運動や活動的な趣味でエネルギーを発散する。", "scores": { "teto": 0, "egen": 2 } }, { "text": "一人で静かに考え事をするか、休息をとる。", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 5, "questionText": "友達が悩みを打ち明けてきた時、あなたは主に？", "answers": [ { "text": "問題の解決策を提案し、論理的に分析する。", "scores": { "teto": 2, "egen": 0 } }, { "text": "感情に共感し、慰める。", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 6, "questionText": "新しい技術や道具を学ぶ時のあなたのアプローチは？", "answers": [ { "text": "マニュアルをしっかり読んで原理を理解してから使う。", "scores": { "teto": 2, "egen": -1 } }, { "text": "とりあえず触ってみて、試行錯誤しながら感覚を掴む。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 7, "questionText": "団体活動ではどのような役割を好みますか？", "answers": [ { "text": "人々を導き、決定を下すリーダーの役割。", "scores": { "teto": 1, "egen": 2 } }, { "text": "アイデアを提案したり、静かにサポートする役割。", "scores": { "teto": 0, "egen": -1 } }, { "text": "雰囲気を作り、チームメンバーをつなぐ役割。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 8, "questionText": "重要な決断を下す時、主に何に頼りますか？", "answers": [ { "text": "客観的なデータと事実。", "scores": { "teto": 2, "egen": 0 } }, { "text": "個人の直感と感情。", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 9, "questionText": "人々と一緒に時間を過ごす時、あなたは？", "answers": [ { "text": "活発に会話してエネルギーを得る。", "scores": { "teto": 0, "egen": 2 } }, { "text": "聞くことを楽しみ、エネルギーを消耗する方だ。", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 10, "questionText": "あなたにとって「成功」とは何ですか？", "answers": [ { "text": "客観的な目標の達成と成果。", "scores": { "teto": 2, "egen": 0 } }, { "text": "自分が満足し、幸福感を感じること。", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 11, "questionText": "対立状況ではどのように対応しますか？", "answers": [ { "text": "問題の原因を分析し、合理的な解決策を見つける。", "scores": { "teto": 2, "egen": -1 } }, { "text": "相手の感情を理解しようと努め、調和を求める。", "scores": { "teto": -2, "egen": 1 } } ] },
+      { "id": 12, "questionText": "旅行の計画を立てる時、あなたは？", "answers": [ { "text": "詳細なスケジュールとルートを徹底的に計画する。", "scores": { "teto": 1, "egen": -1 } }, { "text": "大まかな枠組みだけ決めて、即興で楽しむ方だ。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 13, "questionText": "新しいアイデアを思いつく時、あなたは？", "answers": [ { "text": "体系的な資料調査と分析を通じてアイデアを発展させる。", "scores": { "teto": 2, "egen": -1 } }, { "text": "自由な想像力と直感で様々なアイデアを発散する。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 14, "questionText": "あなたが最も楽しんで行う活動は？", "answers": [ { "text": "新しいことを学んだり、知的な探求をすること。", "scores": { "teto": 1, "egen": -1 } }, { "text": "友達とおしゃべりしたり、集まりを持つこと。", "scores": { "teto": -1, "egen": 2 } }, { "text": "芸術活動（音楽、美術など）や創作活動。", "scores": { "teto": -1, "egen": -1 } } ] },
+      { "id": 15, "questionText": "何かを始める前、あなたは？", "answers": [ { "text": "綿密に計画を立て、万全の準備をする。", "scores": { "teto": 2, "egen": -1 } }, { "text": "とりあえず始めて、ぶつかりながら解決していく。", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 16, "questionText": "褒められた時、主にどんな気分ですか？", "answers": [ { "text": "自分の努力と成果が認められたと感じる。", "scores": { "teto": 1, "egen": 0 } }, { "text": "温かい感情と満足感を感じる。", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 17, "questionText": "休暇中に最もしたいことは？", "answers": [ { "text": "人で賑わう名所や祭りなどに参加する。", "scores": { "teto": 0, "egen": 2 } }, { "text": "静かで閑静な場所で自分だけの時間を過ごす。", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 18, "questionText": "未来を計画する時、あなたは主に？", "answers": [ { "text": "具体的な目標と達成可能なステップを設定する。", "scores": { "teto": 2, "egen": 0 } }, { "text": "可能性を広げておき、柔軟に考える。", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 19, "questionText": "あなたにとって「幸福」とは何ですか？", "answers": [ { "text": "目標達成後の達成感と満足感。", "scores": { "teto": 1, "egen": 0 } }, { "text": "愛する人々と共に過ごす温かい瞬間。", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 20, "questionText": "新しい環境に置かれた時、あなたの行動は？", "answers": [ { "text": "素早く適応し、積極的に人々と交流する。", "scores": { "teto": 0, "egen": 2 } }, { "text": "静かに状況を把握し、慣れるまで待つ。", "scores": { "teto": 0, "egen": -2 } } ] }
+    ],
+    "results": [
+      { "type": "論理的な活動家 (TETO-EGE)", "description": "あなたは理性的で論理的な思考を基に、活動的な問題解決を楽しみます。新しい挑戦を恐れず、分析的なアプローチで目標を達成します。生まれつきのリーダーシップで人々を導き、データに基づいた合理的な意思決定に長けています。やや冷たい、または感情表現が苦手だと誤解されることがありますが、それはあなたが効率性と正確性を重視するためです。", "keywords": ["理性的", "論理的", "活動家", "リーダーシップ", "問題解決者", "挑戦的", "分析的"] },
+      { "type": "論理的な思索家 (TETO-SAC)", "description": "あなたは深い思索と論理的な分析を通じて世界を理解します。一人の時間を通じてエネルギーを得て、複雑な問題を根気強く掘り下げて本質を把握することに長けています。外見は静かに見えるかもしれませんが、内面には広範な知識と体系的な思考能力を備えています。他人との感情的な交流よりも、アイデアや原理を探求することに興味を感じます。", "keywords": ["理性的", "論理的", "思索家", "分析家", "知識人", "探求的", "静か"] },
+      { "type": "感情的な活動家 (GEM-EGE)", "description": "あなたは温かい感情と優れた共感能力で人々と活発にコミュニケーションを取りながらエネルギーを得ます。他人の感情を素早く察知し、関係を大切にし、生まれつきの親しみやすさで周りを楽しませます。直感的で即興的な決定を下す傾向があり、新しい経験を求め、変化を恐れません。時には感情に流されたり、非合理的な決定を下すこともありますが、あなたの明るいエネルギーと包容力は多くの人々に良い影響を与えます。", "keywords": ["感情的", "活動家", "共感", "親しみやすい", "楽観的", "直感的", "関係志向"] },
+      { "type": "感情的な思索家 (GEM-SAC)", "description": "あなたは豊かな感情と深い内面世界を持つ思索家です。一人の時間を通じてインスピレーションを得て、周りの小さなことからも美しさや意味を見出します。他人の感情に敏感に反応し、芸術的な感覚や創造的な側面を持っていることが多いです。外見は静かで内気に見えるかもしれませんが、あなたの内面には深い洞察力と繊細な感受性が宿っています。時には現実的な問題解決に困難を感じることもありますが、あなたの温かさと独創性は周りに特別な影響を与えます。", "keywords": ["感情的", "思索家", "芸術的", "創造的", "繊細", "内向的", "独創的"] }
+    ]
+  },
+  "personal_color_test_page": {
+    "title": "AIパーソナルカラー診断",
+    "subtitle": "あなたにぴったりの色を見つけましょう。AIがあなたの顔を分析して、パーソナルカラーを診断します。",
+    "upload_card_title": "写真をアップロードまたは撮影",
+    "tab_upload": "ファイルをアップロード",
+    "tab_camera": "カメラを使用",
+    "upload_prompt": "クリックまたはドラッグして写真をアップロード",
+    "upload_hint": "PNG, JPG, WEBP 最大4MB",
+    "camera_guidelines_title": "正確な分析のためのヒント",
+    "camera_guideline_1": "明るい自然光の下で撮影してください。",
+    "camera_guideline_2": "メイクをしていない状態で顔がはっきり見えるようにしてください。",
+    "camera_guideline_3": "無表情で正面を向いてください。",
+    "button_take_photo": "写真を撮る",
+    "button_retake_photo": "撮り直す",
+    "button_analyze": "私のパーソナルカラーを分析",
+    "button_analyzing": "分析中...",
+    "results_title": "あなたのパーソナルカラーは...",
+    "results_summary": "診断概要",
+    "results_best_colors": "ベストカラーパレット",
+    "results_worst_colors": "避けるべき色",
+    "results_makeup": "おすすめメイク",
+    "results_fashion": "ファッションスタイリングのヒント",
+    "toast_no_image_title": "画像が選択されていません",
+    "toast_no_image_description": "顔写真をアップロードするか、撮影してください。",
+    "toast_camera_error_title": "カメラエラー",
+    "toast_camera_error_description": "カメラにアクセスできませんでした。権限を確認してください。",
+    "toast_analysis_error_title": "分析エラー",
+    "toast_analysis_error_description": "写真の分析に失敗しました。別の写真でお試しください。",
+    "alert_camera_required_title": "カメラへのアクセスが必要です",
+    "alert_camera_required_description": "この機能を使用するには、ブラウザでカメラへのアクセスを許可してください。"
+  }
+}

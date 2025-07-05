@@ -1,0 +1,177 @@
+{
+  "sidebar": {
+    "home": "홈",
+    "face_reading": "AI 관상 분석",
+    "palm_reading": "AI 손금 분석",
+    "dream_interpretation": "AI 꿈 해몽",
+    "personality_test": "테토-에겐 테스트",
+    "lotto_analysis": "AI 로또 분석",
+    "mystic_ai": "미스틱 AI",
+    "select_language": "언어 선택",
+    "personal_color_test": "퍼스널 컬러 테스트"
+  },
+  "home_page": {
+    "title": "미스틱 AI 포털",
+    "subtitle": "최첨단 AI 도구로 운세와 성격의 영역을 탐험해 보세요. 당신의 얼굴, 손바닥, 꿈에 숨겨진 비밀을 밝혀보세요."
+  },
+  "services": {
+    "face_reading": {
+      "title": "AI 관상 분석",
+      "description": "얼굴 특징을 분석하여 성격과 운세에 대한 통찰력을 보여줍니다."
+    },
+    "palm_reading": {
+      "title": "AI 손금 분석",
+      "description": "손금 사진을 업로드하여 생명선, 건강선, 재물선 등을 AI로 분석합니다."
+    },
+    "dream_interpretation": {
+      "title": "AI 꿈 해몽",
+      "description": "꿈 내용을 입력하면 상세한 상징적 의미를 해석해 드립니다."
+    },
+    "personality_test": {
+      "title": "테토-에겐 테스트",
+      "description": "20개의 질문으로 알아보는 나의 테토-에겐 유형. 나는 어떤 테토일까?"
+    },
+    "lotto_analysis": {
+      "title": "AI 로또 분석",
+      "description": "AI로 로또 번호를 생성하고 과거 데이터를 분석합니다."
+    },
+    "personal_color_test": {
+      "title": "퍼스널 컬러 테스트",
+      "description": "나에게 가장 잘 어울리는 완벽한 컬러 팔레트를 찾아보세요."
+    }
+  },
+  "try_now": "지금 해보기",
+  "face_reading_page": {
+    "title": "AI 관상 보기",
+    "subtitle": "당신의 얼굴에 어떤 비밀이 숨겨져 있는지 알아보세요. 선명한 얼굴 사진을 업로드하면 AI가 특징을 분석하여 성격과 운세에 대한 통찰력을 알려드립니다.",
+    "upload_card_title": "사진 업로드",
+    "upload_prompt": "클릭하거나 드래그하여 사진 업로드",
+    "upload_hint": "PNG, JPG, WEBP 최대 4MB",
+    "button_analyze": "내 얼굴 분석하기",
+    "button_analyzing": "분석 중...",
+    "results_personality_title": "성격 통찰",
+    "results_fortune_title": "미래 운세",
+    "results_jobs_title": "추천 직업",
+    "toast_file_too_large_title": "파일이 너무 큽니다",
+    "toast_file_too_large_description": "4MB 미만의 이미지를 업로드해주세요.",
+    "toast_no_image_title": "선택된 이미지 없음",
+    "toast_no_image_description": "얼굴 사진을 업로드해주세요.",
+    "toast_error_title": "오류",
+    "toast_error_description": "얼굴 분석에 실패했습니다. AI가 이미지에서 얼굴을 인식하지 못했을 수 있습니다."
+  },
+  "palm_reading_page": {
+    "title": "AI 손금 보기",
+    "subtitle": "당신의 운명은 당신의 손 안에 있습니다. 선명한 손바닥 사진을 업로드하면 AI가 주요 손금을 해석하여 당신의 삶, 건강, 재물에 대한 통찰력을 알려드립니다.",
+    "upload_card_title": "손금 사진 업로드",
+    "upload_prompt": "클릭하거나 드래그하여 사진 업로드",
+    "upload_hint": "PNG, JPG, WEBP 최대 4MB",
+    "button_analyze": "내 손금 읽기",
+    "button_analyzing": "분석 중...",
+    "results_health_title": "건강 통찰",
+    "results_wealth_title": "재물 통찰",
+    "toast_file_too_large_title": "파일이 너무 큽니다",
+    "toast_file_too_large_description": "4MB 미만의 이미지를 업로드해주세요.",
+    "toast_no_image_title": "선택된 이미지 없음",
+    "toast_no_image_description": "손금 사진을 업로드해주세요.",
+    "toast_error_title": "오류",
+    "toast_error_description": "손금 분석에 실패했습니다. AI가 이미지에서 손금을 인식하지 못했을 수 있습니다."
+  },
+  "dream_interpretation_page": {
+    "title": "AI 꿈 해몽",
+    "subtitle": "잠재의식의 신비를 풀어보세요. 꿈을 묘사하면 AI가 그 상징적 의미에 대한 상세한 해석을 제공합니다.",
+    "input_card_title": "당신의 꿈을 묘사하세요",
+    "input_placeholder": "예: 수정으로 만들어진 도시 위를 날고 있었어요...",
+    "button_interpret": "내 꿈 해석하기",
+    "button_interpreting": "해석 중...",
+    "results_title": "꿈 해몽",
+    "toast_too_short_title": "입력이 너무 짧습니다",
+    "toast_too_short_description": "꿈에 대해 좀 더 자세히 설명해주세요.",
+    "toast_error_title": "오류",
+    "toast_error_description": "꿈 해석에 실패했습니다. 다시 시도해주세요."
+  },
+  "lotto_analysis_page": {
+    "title": "AI 로또 분석",
+    "subtitle": "AI를 활용하여 행운의 번호를 생성하고, 다양한 통계 데이터를 확인해보세요.",
+    "generator_card_title": "AI 행운 번호 생성기",
+    "generator_prompt": "버튼을 클릭하여 번호를 생성하세요!",
+    "button_generate": "내 번호 생성하기",
+    "analysis_card_title": "종합 통계 분석",
+    "analysis_card_subtitle": "1회부터 현재까지의 데이터를 기반으로 한 통계입니다 (샘플 데이터).",
+    "most_frequent_title": "가장 많이 나온 번호",
+    "least_frequent_title": "가장 적게 나온 번호",
+    "color_stats_title": "색상 통계",
+    "color_yellow": "노란색 (1-10)",
+    "color_blue": "파란색 (11-20)",
+    "color_red": "빨간색 (21-30)",
+    "color_gray": "회색 (31-40)",
+    "color_green": "초록색 (41-45)",
+    "game_label": "게임 {{number}}"
+  },
+  "personality_test_page": {
+    "title": "테토-에겐 테스트",
+    "subtitle": "나는 어떤 테토일까? 에겐 이론을 바탕으로 당신의 테토 유형을 알아보세요.",
+    "question_title": "질문 {{current}} / {{total}}",
+    "button_analyzing": "결과 분석 중...",
+    "button_reset": "테스트 다시하기",
+    "result_type": "당신의 유형",
+    "questions": [
+      { "id": 1, "questionText": "주말이 되었다! 당신의 계획은?", "answers": [ { "text": "집에서 쉰다. 집이 최고!", "scores": { "teto": 0, "egen": -2 } }, { "text": "친구를 만나러 나간다. 파티 타임!", "scores": { "teto": 0, "egen": 2 } } ] },
+      { "id": 2, "questionText": "새로운 사람을 만났을 때, 당신의 첫 반응은?", "answers": [ { "text": "상대방의 배경과 논리적인 대화를 시작한다.", "scores": { "teto": 2, "egen": 1 } }, { "text": "따뜻한 미소로 인사를 건네며 공감대를 찾는다.", "scores": { "teto": -1, "egen": 2 } }, { "text": "조용히 관찰하며 대화를 시작할 기회를 엿본다.", "scores": { "teto": 0, "egen": -1 } } ] },
+      { "id": 3, "questionText": "어려운 문제에 직면했을 때, 당신은?", "answers": [ { "text": "논리적인 단계별 계획을 세우고 실행한다.", "scores": { "teto": 2, "egen": 0 } }, { "text": "직관을 따르거나 주변 사람들에게 조언을 구한다.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 4, "questionText": "스트레스를 해소하는 당신만의 방법은?", "answers": [ { "text": "운동이나 활동적인 취미로 에너지를 발산한다.", "scores": { "teto": 0, "egen": 2 } }, { "text": "혼자 조용히 생각하거나 휴식을 취한다.", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 5, "questionText": "친구가 고민을 털어놓을 때, 당신은 주로?", "answers": [ { "text": "문제의 해결책을 제시하고 논리적으로 분석해준다.", "scores": { "teto": 2, "egen": 0 } }, { "text": "감정을 공감해주고 위로한다.", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 6, "questionText": "새로운 기술이나 도구를 배울 때, 당신의 접근 방식은?", "answers": [ { "text": "매뉴얼을 꼼꼼히 읽고 원리를 이해한 후 사용한다.", "scores": { "teto": 2, "egen": -1 } }, { "text": "일단 만져보고 직접 시도하며 감을 익힌다.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 7, "questionText": "단체 활동에서 당신은 어떤 역할을 선호하나요?", "answers": [ { "text": "사람들을 이끌고 결정을 내리는 리더 역할.", "scores": { "teto": 1, "egen": 2 } }, { "text": "아이디어를 제시하거나 조용히 지원하는 역할.", "scores": { "teto": 0, "egen": -1 } }, { "text": "분위기를 조성하고 팀원들을 연결하는 역할.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 8, "questionText": "중요한 결정을 내려야 할 때, 당신은 주로 무엇에 의존하나요?", "answers": [ { "text": "객관적인 데이터와 사실.", "scores": { "teto": 2, "egen": 0 } }, { "text": "개인의 직감과 감정.", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 9, "questionText": "사람들과 함께 시간을 보낼 때, 당신은?", "answers": [ { "text": "활발하게 대화하고 에너지를 얻는다.", "scores": { "teto": 0, "egen": 2 } }, { "text": "듣는 것을 즐기고 에너지를 소모하는 편이다.", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 10, "questionText": "당신에게 '성공'이란 무엇이라고 생각하나요?", "answers": [ { "text": "객관적인 목표 달성과 성과.", "scores": { "teto": 2, "egen": 0 } }, { "text": "자신이 만족하고 행복감을 느끼는 것.", "scores": { "teto": -2, "egen": 0 } } ] },
+      { "id": 11, "questionText": "갈등 상황에서 당신은 어떻게 대응하나요?", "answers": [ { "text": "문제의 원인을 분석하고 합리적인 해결책을 찾는다.", "scores": { "teto": 2, "egen": -1 } }, { "text": "상대방의 감정을 이해하려 노력하고 조화를 추구한다.", "scores": { "teto": -2, "egen": 1 } } ] },
+      { "id": 12, "questionText": "여행 계획을 세울 때, 당신은?", "answers": [ { "text": "세부적인 일정과 동선을 철저히 계획한다.", "scores": { "teto": 1, "egen": -1 } }, { "text": "큰 틀만 잡고 즉흥적으로 즐기는 편이다.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 13, "questionText": "새로운 아이디어를 떠올릴 때, 당신은?", "answers": [ { "text": "체계적인 자료 조사와 분석을 통해 아이디어를 발전시킨다.", "scores": { "teto": 2, "egen": -1 } }, { "text": "자유로운 상상력과 직관으로 다양한 아이디어를 발산한다.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 14, "questionText": "당신이 가장 즐겨 하는 활동은?", "answers": [ { "text": "새로운 것을 배우거나 지적인 탐구를 하는 것.", "scores": { "teto": 1, "egen": -1 } }, { "text": "친구들과 수다를 떨거나 모임을 갖는 것.", "scores": { "teto": -1, "egen": 2 } }, { "text": "예술 활동(음악, 미술 등)이나 창작 활동.", "scores": { "teto": -1, "egen": -1 } } ] },
+      { "id": 15, "questionText": "어떤 일을 시작하기 전, 당신은?", "answers": [ { "text": "꼼꼼하게 계획을 세우고 만반의 준비를 한다.", "scores": { "teto": 2, "egen": -1 } }, { "text": "일단 시작하고 부딪히며 해결해나간다.", "scores": { "teto": -1, "egen": 1 } } ] },
+      { "id": 16, "questionText": "칭찬을 받았을 때, 당신은 주로 어떤 기분인가요?", "answers": [ { "text": "나의 노력과 성과가 인정받았다고 생각한다.", "scores": { "teto": 1, "egen": 0 } }, { "text": "따뜻한 감정과 만족감을 느낀다.", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 17, "questionText": "휴가 때 가장 하고 싶은 것은?", "answers": [ { "text": "사람들로 북적이는 명소나 축제에 참여한다.", "scores": { "teto": 0, "egen": 2 } }, { "text": "조용하고 한적한 곳에서 나만의 시간을 보낸다.", "scores": { "teto": 0, "egen": -2 } } ] },
+      { "id": 18, "questionText": "미래를 계획할 때, 당신은 주로?", "answers": [ { "text": "구체적인 목표와 달성 가능한 단계를 설정한다.", "scores": { "teto": 2, "egen": 0 } }, { "text": "자유로운 가능성을 열어두고 유연하게 생각한다.", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 19, "questionText": "당신에게 '행복'이란 무엇인가요?", "answers": [ { "text": "목표 달성 후의 성취감과 만족감.", "scores": { "teto": 1, "egen": 0 } }, { "text": "사랑하는 사람들과 함께 하는 따뜻한 순간.", "scores": { "teto": -1, "egen": 0 } } ] },
+      { "id": 20, "questionText": "새로운 환경에 놓였을 때, 당신의 행동은?", "answers": [ { "text": "빠르게 적응하고 적극적으로 사람들과 교류한다.", "scores": { "teto": 0, "egen": 2 } }, { "text": "조용히 상황을 파악하고 익숙해질 때까지 기다린다.", "scores": { "teto": 0, "egen": -2 } } ] }
+    ],
+    "results": [
+      { "type": "논리적 활동가 (TETO-EGE)", "description": "당신은 이성적이고 논리적인 사고를 바탕으로 활동적인 문제 해결을 즐깁니다. 새로운 도전을 두려워하지 않고, 분석적인 접근으로 목표를 달성합니다. 타고난 리더십으로 사람들을 이끌며, 데이터를 기반으로 한 합리적인 의사결정에 능숙합니다. 다소 차갑거나 감정 표현에 서툴다는 오해를 받을 수 있지만, 이는 당신이 효율성과 정확성을 중시하기 때문입니다.", "keywords": ["이성적", "논리적", "활동가", "리더십", "문제 해결사", "도전적", "분석적"] },
+      { "type": "논리적 사색가 (TETO-SAC)", "description": "당신은 깊은 사색과 논리적인 분석을 통해 세상을 이해합니다. 혼자만의 시간을 통해 에너지를 얻고, 복잡한 문제를 끈기 있게 파고들어 본질을 파악하는 데 능숙합니다. 겉으로는 조용해 보일 수 있으나, 내면에는 방대한 지식과 체계적인 사고 능력을 지니고 있습니다. 타인과의 감성적인 교류보다는 아이디어나 원리를 탐구하는 데 더 흥미를 느낍니다.", "keywords": ["이성적", "논리적", "사색가", "분석가", "지식인", "탐구적", "조용함"] },
+      { "type": "감성적 활동가 (GEM-EGE)", "description": "당신은 따뜻한 감성과 뛰어난 공감 능력으로 사람들과 활발하게 소통하며 에너지를 얻습니다. 타인의 감정을 빠르게 파악하고 관계를 중요하게 생각하며, 타고난 친화력으로 주변을 즐겁게 만듭니다. 직관적이고 즉흥적인 결정을 내리는 경향이 있으며, 새로운 경험을 추구하고 변화를 두려워하지 않습니다. 때로는 감정에 휩쓸리거나 비합리적인 결정을 내릴 수 있지만, 당신의 밝은 에너지와 포용력은 많은 사람들에게 긍정적인 영향을 줍니다.", "keywords": ["감성적", "활동가", "공감", "친화력", "낙천적", "직관적", "관계 지향적"] },
+      { "type": "감성적 사색가 (GEM-SAC)", "description": "당신은 풍부한 감성과 깊은 내면 세계를 지닌 사색가입니다. 혼자만의 시간을 통해 영감을 얻고, 주변의 작은 것들에서도 아름다움과 의미를 발견합니다. 타인의 감정에 민감하게 반응하며, 예술적 감각이나 창의적인 면모를 지닌 경우가 많습니다. 겉으로는 조용하고 수줍어 보일 수 있지만, 당신의 내면에는 깊은 통찰과 섬세한 감수성이 자리하고 있습니다. 때로는 현실적인 문제 해결에 어려움을 겪을 수 있으나, 당신의 따뜻함과 독창성은 주변에 특별한 영향을 미칩니다.", "keywords": ["감성적", "사색가", "예술적", "창의적", "섬세함", "내성적", "독창적"] }
+    ]
+  },
+  "personal_color_test_page": {
+    "title": "AI 퍼스널 컬러 테스트",
+    "subtitle": "나에게 딱 맞는 컬러를 찾아보세요. AI가 얼굴을 분석하여 퍼스널 컬러를 진단해 드립니다.",
+    "upload_card_title": "사진 업로드 또는 촬영",
+    "tab_upload": "파일 업로드",
+    "tab_camera": "카메라 사용",
+    "upload_prompt": "클릭하거나 드래그하여 사진 업로드",
+    "upload_hint": "PNG, JPG, WEBP 최대 4MB",
+    "camera_guidelines_title": "정확한 분석을 위한 팁",
+    "camera_guideline_1": "밝은 자연광을 활용해주세요.",
+    "camera_guideline_2": "메이크업을 하지 않은 민낯으로 얼굴이 잘 보이게 해주세요.",
+    "camera_guideline_3": "무표정으로 정면을 응시해주세요.",
+    "button_take_photo": "사진 찍기",
+    "button_retake_photo": "다시 찍기",
+    "button_analyze": "내 퍼스널 컬러 분석하기",
+    "button_analyzing": "분석 중...",
+    "results_title": "당신의 퍼스널 컬러는...",
+    "results_summary": "진단 요약",
+    "results_best_colors": "베스트 컬러 팔레트",
+    "results_worst_colors": "피해야 할 색상",
+    "results_makeup": "메이크업 추천",
+    "results_fashion": "패션 스타일링 팁",
+    "toast_no_image_title": "선택된 이미지 없음",
+    "toast_no_image_description": "얼굴 사진을 업로드하거나 촬영해주세요.",
+    "toast_camera_error_title": "카메라 오류",
+    "toast_camera_error_description": "카메라에 접근할 수 없습니다. 권한을 확인해주세요.",
+    "toast_analysis_error_title": "분석 오류",
+    "toast_analysis_error_description": "사진 분석에 실패했습니다. 다른 사진으로 시도해주세요.",
+    "alert_camera_required_title": "카메라 접근 권한 필요",
+    "alert_camera_required_description": "이 기능을 사용하려면 브라우저에서 카메라 접근을 허용해주세요."
+  }
+}
